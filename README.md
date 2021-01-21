@@ -6,12 +6,13 @@ Juan Pablo Quimbayo1*, Fernanda Carolina da Silva2, Thiago Costa Mendes3, Débor
 Samara Leopoldino Danielski2, Mariana Gomes Bender4 Valeriano Parravicini5, Michel Kulbicki6, Sergio Ricardo Floeter2
 
 Affiliations:
-1 Center for Marine Biology, Universidade de São Paulo, Brazil
-2 Marine Macroecology and Biogeography Lab, Universidade Federal de Santa Catarina, Brazil
-3 Instituto do Mar, Universidade Federal de São Paulo, Brazil
-4 Marine Macroecology and Conservation Lab, Universidade Federal de Santa Maria, Brazil
-5 École Pratique des Hautes Études, Université de Perpignan, France
-6 Institut de Recherche pour le Développement IRD, UMR Entropie, Université de Perpignan, France
+
+(1) Center for Marine Biology, Universidade de São Paulo, Brazil
+(2) Marine Macroecology and Biogeography Lab, Universidade Federal de Santa Catarina, Brazil
+(3) Instituto do Mar, Universidade Federal de São Paulo, Brazil
+(4) Marine Macroecology and Conservation Lab, Universidade Federal de Santa Maria, Brazil
+(5) École Pratique des Hautes Études, Université de Perpignan, France
+(6) Institut de Recherche pour le Développement IRD, UMR Entropie, Université de Perpignan, France
 
 *Corresponding author: Juan Pablo Quimbayo, email: quimbayo_jp@usp.br
 
